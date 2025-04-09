@@ -1,16 +1,19 @@
-## Hi there 👋
+# Bem-vindo ao Meu Perfil 👋
+## Sobre mim
+Desenvolvedor Full Stack focado em Laravel e PHP; e com um pé em UX Design e Gestão de Projetos.
 
-<!--
-**AlanGiacomini/AlanGiacomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Repositórios
 
-Here are some ideas to get you started:
+🔭 Linguagens e Frameworks Experimentais
+- Página do Spotify (HTML; CSS; Javascript) - [Link](https://github.com/AlanGiacomini/spotify-css-html-javascript)
+- Página do Spotify (React Básico) - [Link](https://github.com/AlanGiacomini/spotify-react-basico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Linguagens e Frameworks Profissionais
+- Gerenciador de Anotações (PHP e Laravel) - [Link](https://github.com/AlanGiacomini/notes)
+- Criando "meu próprio framework" (PHP puro) - [Link](https://github.com/AlanGiacomini/mcv-api-php)
+
+⚡ Porfifólio de UX Design - [Link](https://www.behance.net/alangiacomini)
+
+📫 Contato:
+alangiacominisp@hotmail.com
+www.linkedin.com/in/alangiacominisp
